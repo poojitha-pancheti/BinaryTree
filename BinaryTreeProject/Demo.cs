@@ -9,7 +9,7 @@ namespace BinaryTreeProject
             BinaryTree bt = new BinaryTree();
             bt.CreateTree();
             bt.Display();
-            Console.WriteLine("");
+            Console.WriteLine(" ");
             Console.WriteLine("PreOrder:");
             bt.PreOrder();
             Console.WriteLine(" ");
